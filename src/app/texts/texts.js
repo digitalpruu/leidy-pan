@@ -1,10 +1,9 @@
 const title = "Leidy Pan";
-const slogan = "Accesorios que cuentan tu historia.";
-const email = "cositaslindas2507@gmail.com";
+const email = "albaledyquiceno62@hotmail.com";
 const mensajeWhatsApp = encodeURIComponent(
     `¡Hola! Estoy interesado en los accesorios de ${title} y me gustaría obtener más información. ¡Gracias!`
 );
-const numeroWhatsApp = "3028279496";
+const numeroWhatsApp = " 3103326026";
 
 const textos = {
     index: {
@@ -14,7 +13,8 @@ const textos = {
         title: `${title}`,
     },
     about: {
-        description1: "La esencia de Cositas Lindas se basa en accesorios que no solo complemente tu outfit, si no que también te haga sentir feliz y radiante en cada ocasión, pensando en brindarte piezas duraderas y un acabado increíble a precios accequibles. Nuestro compromiso es hacer que cada cliente se sienta único y especial al lucir nuestras creaciones."
+        description1: "Somos una panadería artesanal liderada por Alba Ledy Quiceno Gallego, especializada en la elaboración de productos frescos y deliciosos como panes pequeños, rollos, mogollas, dulces, galletas, lenguas, mantecadas y brownies. Nuestro enfoque es brindar a nuestros clientes productos de calidad, perfectos para cualquier ocasión, con un toque tradicional y casero",
+        description2: "En nuestra panadería, nos esforzamos por ofrecer una experiencia única en cada bocado, utilizando recetas tradicionales y los mejores ingredientes para garantizar el sabor y la frescura de cada uno de nuestros productos. Además, nos aseguramos de mantener un compromiso con la calidad y la satisfacción de nuestros clientes."
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
@@ -22,13 +22,13 @@ const textos = {
     },
     footer: {
         slogan: {
-            p1: "",
-            p2: slogan,
+            p1: "Elaboramos con amor,",
+            p2: "horneamos con pasión",
         },
-        address: "",
+        address: email,
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/profile.php?id=61566082556168&mibextid=ZbWKwL",
+        facebook: "https://www.facebook.com/",
         instagram: "https://www.instagram.com/",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
     },
